@@ -55,10 +55,36 @@ This project is a **proof of concept** and may not include comprehensive error h
 
 ---
 
+## 🤝 **Contributions**  
+
+Contributions are welcome!  
+If you'd like to improve this project or add new features:  
+
+1. Fork the repository.  
+2. Create a new branch for your changes:  
+
+   ```bash  
+   git checkout -b feature/your-feature-name  
+   ```  
+
+3. Commit your changes:  
+
+   ```bash  
+   git commit -m "Add your feature or fix description"  
+   ```  
+
+4. Push to your branch:  
+
+   ```bash  
+   git push origin feature/your-feature-name  
+   ```  
+
+5. Open a Pull Request.  
+
+Feel free to discuss your ideas by opening an issue or reaching out!  
+
+---
+
 ## 📄 **License**  
 
 This project is licensed under the MIT License.  
-
----  
-
-Let me know if you'd like to refine it further!
