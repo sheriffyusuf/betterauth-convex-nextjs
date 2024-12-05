@@ -20,8 +20,8 @@ This project is a **proof of concept (POC)** to demonstrate that **[Better-Auth]
 1. Clone the repository:  
 
    ```bash  
-   git clone [repository_url]  
-   cd [project_folder]  
+   git clone https://github.com/sheriffyusuf/betterauth-convex-nextjs.git
+   cd betterauth-convex-nextjs  
    ```  
 
 2. Install dependencies:  
