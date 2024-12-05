@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Better-Auth + Convex Integration POC**  
 
-## Getting Started
+## 🚀 **Overview**  
 
-First, run the development server:
+This project is a **proof of concept (POC)** to demonstrate that **[Better-Auth](https://better-auth.com)** can be successfully integrated with **[Convex](https://convex.dev)**. It aims to validate the feasibility and provide a foundational example for future implementations.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ **Tools & Technologies Used**  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Better-Auth**: A powerful authentication solution.  
+- **Convex**: A state management and backend framework.  
+- **Next.js**: A React framework for building server-side rendered (SSR) applications.  
+- **Hono**: A framework for building web servers.  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📋 **Getting Started**  
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone the repository:  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```bash  
+   git clone [repository_url]  
+   cd [project_folder]  
+   ```  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. Install dependencies:  
 
-## Deploy on Vercel
+   ```bash  
+   pnpm install  
+   ```  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Set up environment variables:  
+   - Add your **Better-Auth** and **Convex** credentials to `.env`.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. Run the project:  
+
+   ```bash  
+   pnpm dev  
+   ```  
+
+---
+
+## ⚠️ **Disclaimer**  
+
+This project is a **proof of concept** and may not include comprehensive error handling, scalability considerations, or production-grade features.  
+
+---
+
+## ✨ **Future Improvements**  
+
+- Add robust error handling.  
+- Expand support for additional authentication flows.  
+- Optimize for scalability and performance.  
+
+---
+
+## 📄 **License**  
+
+This project is licensed under the MIT License.  
+
+---  
+
+Let me know if you'd like to refine it further!
